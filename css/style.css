@@ -11,8 +11,27 @@
 #orange{
     background-color: #E1D67A;
     width: 800px;
-    height: 400px;
+    height: 300px;
     margin-top: 20px;
     margin-left: 320px;
 
 }
+
+
+#light-blue{
+    background-color: #ABCFE7;
+    width: 800px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 320px;
+    position: fixed;
+
+}
+
+#riquadro{
+    background-color: #0186FF;
+    width: 800px;
+    height: 15px;
+    margin-top: 80px;
+}
+
